@@ -65,8 +65,6 @@ Dashboard analysis on the provided sample data (Total Sales: $6,200 vs. a $10,00
 - **Customer concentration** — Two customers accounted for 58% of total revenue, a material dependency risk; loyalty and referral incentive programs were recommended to diversify the customer base.
 - **Declining month-over-month trend** — sales fell 23% from January to February, flagged for immediate investigation (seasonality, stock-outs, or reduced spend).
 
-Full reasoning, screenshots, and the complete Task 1–8 write-up (data warehousing fundamentals, OLTP vs. OLAP, ETL process, star schema diagram, relationship modeling, and all dashboard visuals) are in `docs/Data_Engineering_Week5_Assignment.pdf`.
-
 ## Tools
 
 Microsoft Power BI Desktop, Power Query, DAX, Microsoft Excel.
