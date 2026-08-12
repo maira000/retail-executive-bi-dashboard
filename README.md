@@ -14,8 +14,6 @@ abc-retail-powerbi-dashboard/
 │   └── ABC_Executive_Dashboard_v1.0.pbix   # Power BI dashboard (open in Power BI Desktop)
 ├── data/
 │   └── ABC_Retail_Store_Data.xlsx          # Source data: Sales, Customers, Products
-└── docs/
-    └── Data_Engineering_Week5_Assignment.pdf  # Full write-up: modeling, DAX, dashboard, insights
 ```
 
 ## Data Model
